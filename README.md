@@ -18,7 +18,7 @@ Open the files in a command line, type "node server.js", and press the "Get Star
 
 Past notes can be accessed by clicking on them in the left column, and they can be deleted by clicking on the red "trash" icon next to them. Existing text is cleared when the top-right "plus" icon is pressed - allowing the user to create a new note.
 
-![Video demonstration](video-url)
+![Video demonstration](https://drive.google.com/file/d/1BuzPZkG8LRD_bXx0QTfy7UkcSdvQas6D/view?usp=share_link)
 ![Employee Tracker Command Line](assets/screenshot.jpg)
 
 ## Credits
